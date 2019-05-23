@@ -12,7 +12,7 @@ hardcoded into the database when the application starts.
 ## Installation
 1. Download project folder
 2. From the terminal navigate to <code> OnlineStreamingInterface/ </code>
-3. Install dependencies with <code> $ nmp install </code>
+3. Install dependencies with <code> $ npm install </code>
       
 ## Run
 1. Make sure that mongo is running as a service
