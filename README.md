@@ -22,4 +22,4 @@ hardcoded into the database when the application starts.
 5. Open browser and navigate to <code> localhost:3000/ </code>
 
 ## Demo
-![](https://github.com/mjconly/OnlineStreamingInterface/blob/master/demo/interface_demo.webm)
+![](https://raw.githubusercontent.com/mjconly/OnlineStreamingInterface/master/demo/interface_demo.webm)
