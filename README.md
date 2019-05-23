@@ -20,3 +20,6 @@ hardcoded into the database when the application starts.
 3. Run application with <code> $ node app.js </code>
 4. Application should be running
 5. Open browser and navigate to <code> localhost:3000/ </code>
+
+## Demo
+![](https://github.com/mjconly/OnlineStreamingInterface/blob/master/demo/interface_demo.webm)
